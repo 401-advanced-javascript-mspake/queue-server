@@ -7,6 +7,7 @@
   
 ### Links and Resources  
 * [submission PR](https://github.com/401-advanced-javascript-mspake/queue-server/pull/1)  
+* [AWS Deployment](http://queueserver-env.fnkrtafwhp.us-west-2.elasticbeanstalk.com/)
   
 ### Modules  
 #### `server.js`  
@@ -19,5 +20,5 @@
 * What assertions were made?  None yet. (We have not learned how to test this)  
 * What assertions need to be / should be made?  All of them.  
   
-<!-- #### UML  
-![uml]() -->
+#### UML  
+![uml](https://github.com/401-advanced-javascript-mspake/queue-server/blob/logger/assets/uml.jpg)
